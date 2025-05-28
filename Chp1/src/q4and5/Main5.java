@@ -1,4 +1,4 @@
-package q4;
+package q4and5;
 
 class Accounts{
 	double calSal(int sal) {
